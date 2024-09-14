@@ -42,13 +42,13 @@ table {
 	border-spacing: 0;
 }
 
-@font-face {
-  font-family: 'open sans', sans-serif;
-  src: url(./Fonts/OpenSans-Regular.woff) format('woff');
-}
-
 * {
   box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url(./Fonts/OpenSans-Regular.woff) format('woff');
 }
 
 html {
