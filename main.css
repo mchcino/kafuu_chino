@@ -51,6 +51,11 @@ table {
   src: url(./Fonts/OpenSans-Semibold.woff) format('woff');
 }
 
+@font-face {
+  font-family: 'OpenSans-Bold';
+  src: url(./Fonts/OpenSans-Bold.woff) format('woff');
+}
+
 html {
   font-family: 'OpenSans-Semibold', sans-serif;
   font-weight: 500;
@@ -205,6 +210,7 @@ html {
   text-align: center;
   color: white;
   font-weight: bold;
+  font-family: 'OpenSans-Bold';
   font-size: 4vmax;
   text-shadow: 0 2px 1px black;
 }
@@ -250,6 +256,7 @@ html {
   text-transform: uppercase;
   font-size: 1.5rem;
   font-weight: bold;
+  font-family: 'OpenSans-Bold';
   text-align: center;
 }
 
@@ -297,6 +304,7 @@ html {
 .container .about-profile .content .information h3 {
   font-size: 1.5rem;
   font-weight: bold;
+  font-family: 'OpenSans-Bold';
   margin-bottom: 20px;
   color: white;
 }
@@ -412,6 +420,7 @@ html {
 .container .reviews .content h5 {
   font-size: 1.5rem;
   font-weight: bold;
+  font-family: 'OpenSans-Bold';
   text-transform: uppercase;
   margin-bottom: 20px;
   color: white;
@@ -449,6 +458,7 @@ html {
 .container .extras .content h6 {
   font-size: 1.5rem;
   font-weight: bold;
+  font-family: 'OpenSans-Bold';
   text-transform: uppercase;
   margin-bottom: 20px;
   color: white;
