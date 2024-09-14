@@ -204,7 +204,7 @@ html {
 .container .hero .content h1 {
   text-align: center;
   color: white;
-  font-weight: 700;
+  font-weight: bold;
   font-size: 4vmax;
   text-shadow: 0 2px 1px black;
 }
@@ -249,7 +249,7 @@ html {
 .container .main-content .content h2 {
   text-transform: uppercase;
   font-size: 1.5rem;
-  font-weight: 700;
+  font-weight: bold;
   text-align: center;
 }
 
@@ -296,7 +296,7 @@ html {
 
 .container .about-profile .content .information h3 {
   font-size: 1.5rem;
-  font-weight: 700;
+  font-weight: bold;
   margin-bottom: 20px;
   color: white;
 }
@@ -411,7 +411,7 @@ html {
 
 .container .reviews .content h5 {
   font-size: 1.5rem;
-  font-weight: 700;
+  font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 20px;
   color: white;
@@ -448,7 +448,7 @@ html {
 
 .container .extras .content h6 {
   font-size: 1.5rem;
-  font-weight: 700;
+  font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 20px;
   color: white;
