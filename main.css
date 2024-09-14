@@ -44,7 +44,6 @@ table {
 
 * {
   box-sizing: border-box;
-  user-select: none;
 }
 
 @font-face {
